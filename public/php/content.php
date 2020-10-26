@@ -94,7 +94,7 @@
         "Even if The Sun looks round and peaceful, sometimes it suddenly vomits radiation and plasma in random directions. In this chapter, we’ll learn about this phenomenon.", 
         "If NASA announced that aliens exist, far from an exciting discovery, it could mean that the end of humanity is almost certain. But why? Learn about it in this chapter.", 
         "Strange matter is one of the most bizarre and unstable types of matter. It even defies the laws of physics as we know it. But what does it do? Learn about it in this chapter.", 
-        "Is it really a way to move the Sun? After all, nothing in this world is static, so there actually is a way. In this chapter, we’ll learn about stellar engines.", 
+        "Is there really a way to move the Sun? After all, nothing in this world is static, so there actually is a way. In this chapter, we’ll learn about stellar engines.", 
         "Neutron stars are one of the most extreme and violent things in The Universe, almost as much as black holes. But what are they? Learn about it in this chapter.", 
         "What if we were able to use 100% of the Sun's energy? We might even need to at some point of evolution. But how? In this chapter, we’ll learn all about it.", 
         "Humans dream about leaving Earth and travelling through the galaxy. The first step is our moon, so, how could we build a base there? Learn about it in this chapter.", 
