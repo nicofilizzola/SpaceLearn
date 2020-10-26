@@ -1,0 +1,33 @@
+body{
+    overflow-x: hidden;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.navbar{
+    @media screen and (max-width: map-get($map: $grid-breakpoints, $key: lg)){
+        justify-content: flex-end;
+        padding: 1.5rem;
+        
+        .navbar-brand{
+            position: absolute;
+            left: 1rem;
+            top: 1rem;
+            bottom: 1rem;
+        }
+
+        li{
+            text-align: right;
+        }
+    }
+}
+
+#footer{
+    margin-top: 1.5rem;
+    padding: 1.5rem;
+    max-width: 100vw;
+}
+
+#moreLikeThis{
+    margin-bottom: 1.5rem;
+}
